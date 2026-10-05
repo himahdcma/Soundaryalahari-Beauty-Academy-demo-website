@@ -7,7 +7,7 @@ export const offersData = [
     validity: null,
     discount: null,
     active: true,
-    image: "https://images.unsplash.com/photo-1512290900672-1f55a153247c?auto=format&fit=crop&w=800&q=80",
+    image: "/images/gold-facial.jpg",
     badge: "Seasonal Privilege",
   },
   {
@@ -18,7 +18,7 @@ export const offersData = [
     validity: null,
     discount: null,
     active: true,
-    image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+    image: "/images/eyebrow-threading.jpg",
     badge: "Student Privilege",
   },
 ];
@@ -34,8 +34,8 @@ export const offersPageContent = {
       path: "/booking",
     },
     image: {
-      url: "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?auto=format&fit=crop&w=800&q=80",
-      alt: "Beauty and salon care showcase",
+      url: "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=900&q=80",
+      alt: "Soundaryalahari Beauty Academy salon and styling stations",
     },
   },
   galleryIntro: {

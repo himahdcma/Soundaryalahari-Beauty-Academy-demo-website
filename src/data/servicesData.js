@@ -14,7 +14,7 @@ export const servicesData = [
     shortDescription:
       "A gentle multi-step cleansing and hydration therapy focused on deep pore cleansing and restoring natural skin freshness.",
     image:
-      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "/images/hydra-facial.jpg",
     duration: null,
     price: null,
     featured: true,
@@ -26,7 +26,7 @@ export const servicesData = [
     shortDescription:
       "A nourishing facial experience designed to improve skin smoothness, restore gentle luminosity, and enhance natural glow.",
     image:
-      "https://images.unsplash.com/photo-1512290900672-1f55a153247c?auto=format&fit=crop&w=800&q=80",
+      "/images/gold-facial.jpg",
     duration: null,
     price: null,
     featured: true,
@@ -38,7 +38,7 @@ export const servicesData = [
     shortDescription:
       "A soothing exfoliation and de-tanning pack formulated to gently lift sun dullness and refresh your complexion.",
     image:
-      "https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
     duration: null,
     price: null,
     featured: true,
@@ -50,7 +50,7 @@ export const servicesData = [
     shortDescription:
       "A revitalizing nutrient-rich session that boosts moisture retention and leaves the skin feeling supple, soft, and clear.",
     image:
-      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=800&q=80",
     duration: null,
     price: null,
     featured: true,
@@ -62,7 +62,7 @@ export const servicesData = [
     shortDescription:
       "Precise eyebrow grooming designed to create a clean, well-defined shape that naturally complements your facial features.",
     image:
-      "https://images.unsplash.com/photo-1595878715977-2e8f8df18ea8?auto=format&fit=crop&w=800&q=80",
+      "/images/eyebrow-threading.jpg",
     duration: null,
     price: null,
     featured: false,
@@ -86,7 +86,7 @@ export const servicesData = [
     shortDescription:
       "Careful salon waxing service providing smooth, hygienic hair removal with soothing post-wax skin care.",
     image:
-      "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=800&q=80",
+      "/images/waxing-treatment.jpg",
     duration: null,
     price: null,
     featured: false,
@@ -98,7 +98,7 @@ export const servicesData = [
     shortDescription:
       "A calming therapeutic experience with soothing massage strokes to release tension, ease fatigue, and promote complete rest.",
     image:
-      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80",
     duration: null,
     price: null,
     featured: true,

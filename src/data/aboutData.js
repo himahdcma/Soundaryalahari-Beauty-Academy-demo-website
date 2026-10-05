@@ -1,4 +1,4 @@
-import { businessData } from './businessData';
+import { businessData } from './businessData.js';
 
 export const aboutData = {
   hero: {
@@ -56,7 +56,7 @@ export const aboutData = {
     images: [
       {
         id: "vis-1",
-        url: "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=900&q=80",
+        url: "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=900&q=80",
         alt: "Welcoming beauty salon ambiance with clean styling stations",
         caption: "Welcoming Salon Ambiance",
       },
